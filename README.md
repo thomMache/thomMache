@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thomMache
 - 👀 I’m interested in continue  learning  Java
-- 🌱 I’m currently learning Angular and Java
+- 🌱 I’m currently learning Angular and React
 
 
 <!---
